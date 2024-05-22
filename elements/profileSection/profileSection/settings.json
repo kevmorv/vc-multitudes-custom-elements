@@ -296,7 +296,7 @@
   "tag": {
     "access": "protected",
     "type": "string",
-    "value": "demoGrid"
+    "value": "profileSection"
   },
   "metaPublicJs": {
     "access": "protected",
@@ -305,7 +305,7 @@
       "libraries": [
         {
           "libPaths": [
-            "public/dist/demoGrid.min.js"
+            "public/dist/profileSection.min.js"
           ]
         }
       ]

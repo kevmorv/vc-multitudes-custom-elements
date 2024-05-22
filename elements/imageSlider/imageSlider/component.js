@@ -156,10 +156,16 @@ export default class ImageSlider extends vcvAPI.elementComponent {
               className={`vce-image-slider-prev-arrow`}
               aria-label="Go to previous slide"
             >
-              <svg width="16px" height="25px" viewBox="0 0 16 25">
-                <polygon
-                  id="Prev-Arrow"
-                  points="12.3743687 5.68434189e-14 0 12.3743687 12.0208153 24.395184 14.1421356 22.2738636 4.31790889 12.4496369 14.5709572 2.19658855"
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="17"
+                height="32"
+                viewBox="0 0 17 32"
+                fill="none"
+              >
+                <path
+                  d="M16.1914 31.8073L0 22.4413V9.8499L16.1914 0.545898V7.92707L2.88747 15.4943V16.983L16.1914 24.6122V31.8073Z"
+                  fill="#1A4434"
                 />
               </svg>
             </button>{" "}
@@ -167,10 +173,16 @@ export default class ImageSlider extends vcvAPI.elementComponent {
               className={`vce-image-slider-next-arrow`}
               aria-label="Go to next slide"
             >
-              <svg width="16px" height="25px" viewBox="0 0 16 25">
-                <polygon
-                  id="Next-Arrow"
-                  points="3.02081528 24.395184 15.395184 12.0208153 3.37436867 1.13686838e-13 1.25304833 2.12132034 11.0772751 11.9455471 0.824226734 22.1985954"
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="17"
+                height="32"
+                viewBox="0 0 17 32"
+                fill="none"
+              >
+                <path
+                  d="M4.64031e-06 0.545702L16.1914 9.91173L16.1914 22.5031L1.90735e-06 31.8071L2.55263e-06 24.426L13.3039 16.8587L13.3039 15.3701L4.01129e-06 7.74079L4.64031e-06 0.545702Z"
+                  fill="#1A4434"
                 />
               </svg>
             </button>{" "}

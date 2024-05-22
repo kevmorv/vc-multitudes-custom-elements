@@ -6,7 +6,7 @@ import { setCssVariables } from "vc-helpers";
 const vcvAPI = getService("api");
 // export const URL_PATH = "http://" + window.location.host + "/wp-json/wp/v2/";
 
-export default class DemoGrid extends vcvAPI.elementComponent {
+export default class ProfileSection extends vcvAPI.elementComponent {
   constructor(props) {
     super(props);
     this.ref = React.createRef();

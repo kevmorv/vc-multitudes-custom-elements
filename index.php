@@ -20,7 +20,7 @@ add_action(
     function ($api) {
         $elementsToRegister = [
             "demoGridItem",
-            "demoGrid",
+            "profileSection",
             "imageSlider"
         ];
         $pluginBaseUrl = rtrim(plugins_url(basename(__DIR__)), '\\/');

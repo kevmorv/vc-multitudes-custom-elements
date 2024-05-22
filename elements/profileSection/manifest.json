@@ -1,8 +1,8 @@
 {
   "elements": {
-    "demoGrid": {
+    "profileSection": {
       "settings": {
-        "name": "[Demo] Demo Grid",
+        "name": "Profile Section",
         "metaThumbnailUrl": "[publicPath]/thumbnail.png",
         "metaPreviewUrl": "[publicPath]/preview.png",
         "metaDescription": "Add page, post or custom post type grid teasers in grid layout."
@@ -12,7 +12,7 @@
   "categories": {
     "Grids": {
       "elements": [
-        "demoGrid"
+        "profileSection"
       ]
     }
   },
