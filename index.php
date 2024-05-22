@@ -2,7 +2,7 @@
 /**
 Plugin Name: VCWB Multitudes Elements API 
 Description: Custom elements for Visual Composer
-Version: 0.0.1
+Version: 1.0
 Author: Kevin Morvi
 Author URI: https://kmorvillier.dev
 */
