@@ -1,0 +1,6 @@
+{
+    "name": "kev/vc-multitudes-custom-elements",
+    "description": "Custom elements for Visual Composer",
+    "type": "composer-plugin",
+    "require": {}
+}
