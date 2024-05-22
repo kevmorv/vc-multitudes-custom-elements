@@ -2,6 +2,6 @@
     "name": "kevmorv/vc-multitudes-custom-elements",
     "version": "1.0.0",
     "description": "Custom elements for Visual Composer",
-    "type": "composer-plugin",
+    "type": "wordpress-plugin",
     "require": {}
 }
